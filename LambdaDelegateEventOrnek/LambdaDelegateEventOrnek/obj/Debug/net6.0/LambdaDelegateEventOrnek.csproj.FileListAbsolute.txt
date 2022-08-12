@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\bin\Debug\net6.0\LambdaDelegateEventOrnek.exe
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\bin\Debug\net6.0\LambdaDelegateEventOrnek.deps.json
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\bin\Debug\net6.0\LambdaDelegateEventOrnek.runtimeconfig.json
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\bin\Debug\net6.0\LambdaDelegateEventOrnek.dll
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\bin\Debug\net6.0\LambdaDelegateEventOrnek.pdb
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.dll
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\refint\LambdaDelegateEventOrnek.dll
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.pdb
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\LambdaDelegateEventOrnek.genruntimeconfig.cache
+C:\Users\HP\Desktop\CS\D5\LambdaDelegateEventOrnek\LambdaDelegateEventOrnek\obj\Debug\net6.0\ref\LambdaDelegateEventOrnek.dll
